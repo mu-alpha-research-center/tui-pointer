@@ -2,6 +2,8 @@
 
 A terminal visualization library for two-pointer algorithm problems, built with [Rich](https://github.com/Textualize/rich).
 
+[![asciicast](https://asciinema.org/a/kpBVEpBORZM9Emff.svg)](https://asciinema.org/a/kpBVEpBORZM9Emff)
+
 ## Requirements
 
 - Python 3.10+
