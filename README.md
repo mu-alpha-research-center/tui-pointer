@@ -24,6 +24,7 @@ make run-two-sum             # two-sum search
 make run-remove-duplicates   # remove duplicates in-place
 make run-remove-element      # remove element in-place
 make run-move-zeroes         # move zeroes to end
+make run-sort-array-by-parity  # sort evens before odds
 ```
 
 ## Manual Setup (without make)
@@ -42,6 +43,7 @@ python3 -m venv .venv
 | `example_remove_duplicates.py` | Remove duplicates in-place | `[0, 0, 1, 1, 1, 2, 2, 3, 3, 4]` | `k=5`, result `[0, 1, 2, 3, 4]` |
 | `example_remove_element.py` | Remove element in-place | `[3, 2, 2, 3, 4, 3, 5]`, val=3 | `k=4`, result `[5, 2, 2, 4]` |
 | `example_move_zeroes.py` | Move zeroes to end | `[0, 1, 0, 3, 12]` | `[1, 3, 12, 0, 0]` |
+| `example_sort_array_by_parity.py` | Sort evens before odds | `[7, 2, 9, 4, 1, 6, 11, 8, 3, 14, 5, 10, 13, 16, 15]` | evens first, odds last |
 
 ## Cleanup
 
